@@ -8,6 +8,7 @@ from awsglue.context import GlueContext
 from delta import *
 from delta import DeltaTable
 from faker import Faker
+import json
 
 
 import os
