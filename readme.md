@@ -4,7 +4,7 @@
 This is a quick start guide for the Delta Lake (delta.io) Python Spark connector, running on AWS Glue.
 
 It's also specifically configured for the following Glue version:
-- AWS Glue 3.0
+- AWS Glue 3.0  
     * Spark 3.1.1
     * Python 3.7
     * Delta Lake 1.0.0
